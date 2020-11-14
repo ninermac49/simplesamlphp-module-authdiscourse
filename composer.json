@@ -27,10 +27,6 @@
         }
     },
     "require": {
-        "php": ">=7.2",
-        "simplesamlphp/composer-module-installer": "~1.0",
-        "simplesamlphp/simplesamlphp": "stable",
-        "webmozart/assert": "^1.4"
     },
     "require-dev": {
         "simplesamlphp/simplesamlphp-test-framework": "^0.1.0"
