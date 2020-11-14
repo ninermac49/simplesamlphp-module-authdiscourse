@@ -1,5 +1,5 @@
 {
-    "name": "swcc/simplesamlphp-module-authdiscourse",
+    "name": "ninermac49/simplesamlphp-module-authdiscourse",
     "description": "A module that is able to perform authentication against a Discourse server",
     "type": "simplesamlphp-module",
     "keywords": ["simplesamlphp", "discourse"],
@@ -29,7 +29,7 @@
     "require": {
         "php": ">=7.2",
         "simplesamlphp/composer-module-installer": "~1.0",
-        "simplesamlphp/simplesamlphp": "dev-master",
+        "simplesamlphp/simplesamlphp": "stable",
         "webmozart/assert": "^1.4"
     },
     "require-dev": {
